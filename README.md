@@ -1,6 +1,3 @@
 ## License
-
-This project is licensed under the MIT License.
-
-Portions of this project are based on work by [oddlama], used under the MIT License.
-See `ORIGINAL_LICENSE` for details.
+Licensed under [Minerte](license/LICENSE).  
+Original work from [oddlama] under [LICENSE_ORIGINAL](license/LICENSE_ORIGINAL).
